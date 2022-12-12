@@ -1,5 +1,5 @@
 import math
-with open(r'Zad3\complex.txt','r') as data: #Открытие файла с исходными данными
+with open(r'Zad3\complex.txt','r') as data: #Открытиес исходными данными файла 
 
     nums = []
     print('Enter the comparison num:')
